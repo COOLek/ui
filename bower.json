@@ -14,7 +14,7 @@
     "bem-components": "2.5.0",
     "bem-typography": "1.1.0",
     "bem-forms": "https://github.com/bem-contrib/bem-forms.git#v1.0.0",
-    "bem-grid": "^2.3.2"
+    "bem-grid": "2.3.2"
   },
   "devDependencies": {
     "bem-pr": "https://github.com/alfa-bank-dev/bem-pr.git#28853d9"
